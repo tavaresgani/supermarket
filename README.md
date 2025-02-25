@@ -1,6 +1,6 @@
 # 📊 Dashboard Interativo de Vendas
 
-Este projeto apresenta um **dashboard interativo** desenvolvido com **Streamlit e Plotly** para análise de dados de vendas de um supermercado. O objetivo é fornecer insights visuais sobre faturamento, produtos mais vendidos, formas de pagamento e avaliações dos clientes.
+Este projeto apresenta um **dashboard interativo** desenvolvido com **Streamlit e Plotly** para análise de dados de vendas. O objetivo é fornecer insights visuais sobre faturamento, produtos mais vendidos, formas de pagamento e avaliações dos clientes.
 
 ## 📌 Funcionalidades
 - **Seleção dinâmica do mês** para análise personalizada
